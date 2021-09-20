@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>site update on The 5 Day Shenzhen Visa</title>
+    <link>/tags/site-update/</link>
+    <description>Recent content in site update on The 5 Day Shenzhen Visa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2017 08:21:41 +0000</lastBuildDate><atom:link href="/tags/site-update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your wait is over!</title>
+      <link>/your-wait-is-over/</link>
+      <pubDate>Sun, 08 Jan 2017 08:21:41 +0000</pubDate>
+      
+      <guid>/your-wait-is-over/</guid>
+      <description>We moved this website to a new, much faster, server. I need to watch the pages for the next few days. Not everything is working yet. If you see an error – send me a message!</description>
+    </item>
+    
+  </channel>
+</rss>

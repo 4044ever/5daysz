@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forum on The 5 Day Shenzhen Visa</title>
+    <link>/tags/forum/</link>
+    <description>Recent content in forum on The 5 Day Shenzhen Visa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Dec 2018 13:25:47 +0000</lastBuildDate><atom:link href="/tags/forum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum added!</title>
+      <link>/forum-added/</link>
+      <pubDate>Thu, 27 Dec 2018 13:25:47 +0000</pubDate>
+      
+      <guid>/forum-added/</guid>
+      <description>To make it easier to find questions and comments I added a forum.
+Feel free to comment or ask questions. It will be sorted later into categories if the topics are getting too mixed. Old comments might be added too. Enjoy!
+ Sorry forum was discontinued and is closed now  </description>
+    </item>
+    
+  </channel>
+</rss>
