@@ -1,0 +1,12 @@
+https://themes.gohugo.io/themes/hugo-travelify-theme/
+
+
+
+To view sample sites:
+hugo server --themesDir ../..
+G:\web\Hugo\5daysz\themes\hugo-travelify-theme\exampleSite>hugo server --themesDir ../..
+
+
+
+https://phrase.com/blog/posts/i18n-tutorial-how-to-go-multilingual-with-hugo/
+
